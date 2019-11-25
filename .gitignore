@@ -1,0 +1,8 @@
+.idea/
+.DS_Store
+.mvn/
+HELP.md
+mvnw
+mvnw.cmd
+target/
+tenalysys.iml
